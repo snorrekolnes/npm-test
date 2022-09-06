@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/snorrekolnes/npm-test.git"
   },
-  "author": "",
+  "author": "snorre",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/snorrekolnes/npm-test/issues"
